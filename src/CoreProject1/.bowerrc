@@ -1,7 +1,7 @@
 {
   "directory": "wwwroot/lib",
   "registry": "http://bower.herokuapp.com",
-  "proxy": "http://04001729:03Oct2016@wpad.finance.wa.gov.au:80/",
-  "https-proxy": "http://04001729:20Dec2016@wpad.finance.wa.gov.au:80/",
+  "proxy": "proxyaddress",
+  "https-proxy": "https login proxy",
   "strict-ssl": false
 }
