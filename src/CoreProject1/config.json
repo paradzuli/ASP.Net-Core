@@ -1,0 +1,12 @@
+{
+  "MailSettings": {
+    "ToAddress": "test@test.com"
+  },
+  "ConnectionStrings": {
+    "WorldContextConnection": "Server=(localdb)\\MSSQLLocalDB;Database=TheWorldDb;Trusted_Connection=true;"
+  },
+  "Keys": {
+    "BingKey": "AkLeo8XEFzBXvtlwaCptun2mJ3B7Q66mQhQjXPO6kujByw1EPDNfNAvhgGKFXwP6"
+
+  } 
+}
